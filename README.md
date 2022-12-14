@@ -45,7 +45,7 @@ Hello, I’m Arpan, I build mobile (Android, iOS) and web Applications with Reac
 <img align="left" alt="AWS Amplify" src="https://img.shields.io/badge/AMPLIFY-grey?style=for-the-badge&logo=awsamplify&logoColor=white" />
 <img align="left" alt="Supabase" src="https://img.shields.io/badge/SUPABASE-green?style=for-the-badge&logo=supabase&logoColor=white" />
 <img align="left" alt="Firebase" src="https://img.shields.io/badge/FIREBASE-yellow?style=for-the-badge&logo=firebase&logoColor=white" />
-<img align="left" alt="SQLite" src="https://img.shields.io/badge/SQLite-grey?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img align="left" alt="SQLite" src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 <br />
 <br />
