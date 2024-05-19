@@ -1,14 +1,14 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hello">
 
 <p>
-Hello, I’m Arpan, I build mobile (Android, iOS) and web Applications with React Native and Next.js (Solito)  </p>
+Hello, I’m Arpan, I build mobile (w/ [React Native](https://reactnative.dev/) and web Applications (w/ [Next](https://nextjs.org/)  </p>
 
-- 🌱 I’m currently learning everthing tech
-- 👯 I’m looking to collaborate with other React Native Developers
-- 🥅 2023 Goals: To add value as much as possible and to increase my contributions to opensource 
-- 🤔 I’m looking for help with maintaining a no/low code tool platform for both mobile & web.
-- 📫 How to reach me: hey@arpanm.ml
-- ⚡ Fun fact: I'm pursuing bechelors in Genetics & wanna cure ageing.
+- 🌱 I’m currently learning everthing tech (ai & stuff)
+- 👯 I’m looking to collaborate Developers to build cool shit.
+- 🥅 2024 Goals: To add value as much as possible and to increase my contributions to opensource 
+- 🤔 I’m looking for help with building & managing a `self-management Infrastructure`.
+- 📫 How to reach me: arpan.m@pm.me
+- ⚡ Fun fact: I'm pursuing bechelors in Genetics & Have some contribution in the field of Longivity.
 
 ## Connect with me:
 
@@ -49,5 +49,3 @@ Hello, I’m Arpan, I build mobile (Android, iOS) and web Applications with Reac
 
 <br />
 <br />
-
-[twitter]: https://twitter.com/a_sane_boson
