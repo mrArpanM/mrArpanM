@@ -1,7 +1,7 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hello">
 
-<p>
-Hello, I’m Arpan, I build mobile (w/ [React Native](https://reactnative.dev/) and web Applications (w/ [Next](https://nextjs.org/)  </p>
+
+Hello, I’m Arpan, I build mobile (w/ [React Native](https://www.reactnative.dev/)) and web Applications (w/ [Next](https://nextjs.org/) )
 
 - 🌱 I’m currently learning everthing tech (ai & stuff)
 - 👯 I’m looking to collaborate Developers to build cool shit.
@@ -12,7 +12,7 @@ Hello, I’m Arpan, I build mobile (w/ [React Native](https://reactnative.dev/) 
 
 ## Connect with me:
 
-[<img align="left" alt="Arpan Mondal | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+<img align="left" alt="Arpan Mondal | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 
 <br />
 <br />
@@ -21,9 +21,9 @@ Hello, I’m Arpan, I build mobile (w/ [React Native](https://reactnative.dev/) 
 ## Languages and Tools:
 
 <p>
+<img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 <br />
 <br />
@@ -42,8 +42,8 @@ Hello, I’m Arpan, I build mobile (w/ [React Native](https://reactnative.dev/) 
 
 ## Databases I am familiar with:
 
-<img align="left" alt="AWS Amplify" src="https://img.shields.io/badge/AMPLIFY-grey?style=for-the-badge&logo=awsamplify&logoColor=white" />
 <img align="left" alt="Supabase" src="https://img.shields.io/badge/SUPABASE-green?style=for-the-badge&logo=supabase&logoColor=white" />
+<img align="left" alt="AWS Amplify" src="https://img.shields.io/badge/AMPLIFY-grey?style=for-the-badge&logo=awsamplify&logoColor=white" />
 <img align="left" alt="Firebase" src="https://img.shields.io/badge/FIREBASE-yellow?style=for-the-badge&logo=firebase&logoColor=white" />
 <img align="left" alt="SQLite" src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=white" />
 
